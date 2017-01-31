@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans'
+}
+
+#titlebar {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+  width: 100%;
+  height: 23px;
+  background-color: #222;
+  text-align: center;
+  color: #666;
+  font-size: 0.8em;
+  line-height: 22px;
+}
