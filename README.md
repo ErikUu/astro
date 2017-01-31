@@ -1,5 +1,6 @@
 #Astro
-Astro project recreates the Astroids game using Electron, JS, and Phaser.js.
+Astro recreates the Astroids game using Electron, JS, and Phaser.js.
+Astro is just a fun side project with the goal of recreating the Astroids game using previously mentioned technologies.
 
 ##todo
 - [x] Movement
@@ -12,6 +13,6 @@ Astro project recreates the Astroids game using Electron, JS, and Phaser.js.
 2. `npm start`
 
 ##Build
-OSX: `npm package-mac`
-Linux: `npm package-linux`
-Windows: `npm package-win`
+- OSX: `npm package-mac`
+- Linux: `npm package-linux`
+- Windows: `npm package-win`
